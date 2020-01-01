@@ -6,7 +6,7 @@ var CLIENTKEY      = "ae56cd3dbda3b5d1e78ee5212361a5ceacd1c332c202948a730d03f65f
 var ncmb = new NCMB(APPLICATIONKEY, CLIENTKEY);
 
 // 【mBaaS：公開ファイル】
-var APPLICATION_ID = "YOUR_NCMB_APPLICATION_ID";
+var APPLICATION_ID = "6qo9c3DscpUNL997";
 
 // 地図
 var map;
